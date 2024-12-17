@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buyer Dashboard - Web-Property</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Buyer Dashboard</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="logout.php">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to Your Dashboard</h2>
+            <p>Thank you for choosing Property-Hub!</p>
+
+            <h3>Search Properties</h3>
+            <form action="search.php" method="get">
+                <input type="text" name="query" placeholder="Search by location, price, features..." required>
+                <button type="submit">Search</button>
+            </form>
+
+            <h3>Search Results</h3>
+            <div class="property-cards">
+                <!-- Property search results will be dynamically loaded here -->
+                <div class="card">
+                    <img src="property2.jpg" alt="Property Image">
+                    <h3>Property Location</h3>
+                    <p>Details about the property...</p>
+                    <button>Add to Wishlist</button>
+                </div>
+            </div>
+
+            <h3>Your Wishlist</h3>
+            <div class="wishlist-cards">
+                <!-- Wishlist items will be dynamically loaded here -->
+                <div class="card">
+                    <img src="wishlist1.jpg" alt="Wishlist Property Image">
+                    <h3>Wishlist Property</h3>
+                    <p>Details about the property...</p>
+                    <button>Remove from Wishlist</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Web-Property</p>
+    </footer>
+</body>
+</html>
+

@@ -1,0 +1,18 @@
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$4tSR0C5mYS8zQA9kNEL0kuL6214a9sWS9OGqKAX0lGjCl7T7leD/e
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$8XcWbSWvrjWVbH2YTWMEkenOJ3e3iTf6/zUqcRJTQdFNw86XSfYNy
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$3Hm9yJAKbRf4MEcC.pFRLuoniQZTGGGcMjDghGbx/0LJ0C5Xqn0ry
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$5yav3tzLP5cazCG9YFMlo.zIKNhceeKTKJ4mC/3Kvv2G9v48SIawW
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$EmjQdZznGLQyYy8uwgQ2KuFxKVU2fUEtwD0y2dozY9Wud1JHSb5ze
+Username: wasuper, Email: wadvs@gmail.com, Password: $2y$10$FaMwfVN3ztFslxhuyLHjCeYLRPpVYyTISFNzNCb3j/lbZl8caHYBO
+wasuper|wadvs@gmail.com|$2y$10$RPheJGsuAbJaQ27IT6PLauP0WCGIK5FgbHtc/kthT.Qm5xVcldQ1W|buyer
+wasuper|wadvs@gmail.com|$2y$10$3yovbHJU8chqhPrdQMVRS.2AbYALcOOsp5ujkrN9ORFkxJqoP4VoS|buyer
+wasuper|wadvs@gmail.com|$2y$10$JYBxOAjawIReTeMRWOxONuoksEuPD53b.76BcBtrVEGvIiC32fYDC|buyer
+wasuper|wadvs@gmail.com|$2y$10$qCjrNUnlaJO/pTHWq5i/VeuSN9/MLqsmo8lJTbHFrPjH/O88zgh3u|buyer
+wasuper|wadvs@gmail.com|$2y$10$xTyYjOb0o/OBK7i2aOlZ0.iFinAnNuazsJ7TXzKxzB2HiQHcwby9O|buyer
+wasuper|wadvs@gmail.com|$2y$10$DoTc8AEM7IFb60NRLkBtP.iAMLfeBxo104InUniEwFs1vw/X8NSMW|buyer
+wasuper|wadvs@gmail.com|$2y$10$jCss.NPYPQVpsXCAqac1iOUROXaMxcYDXmX8GfrkfrFA1dMZLou2O|buyer
+wasuper|wadvs@gmail.com|$2y$10$xmN5VtvkxcEat52wC7LCl..LXIgQzg.TomMl.7km4FFgBB843L7z6|buyer
+wasuper|wadvs@gmail.com|$2y$10$0/hEDcNfatkGO4Kc6Dqwkehipf2C1RK3T1u5Nt/tMUApa4HyN/zjK|buyer
+wasuper|wadvs@gmail.com|$2y$10$84hIDjw9aIwI72fQun2iD.kjlf5ToYFiYcalOqR3gl1lJ.lX1190y|admin
+wasuper|wadvs@gmail.com|$2y$10$msNxdCx9xfNvpO6nQPNeiOXoLsBVW6vq6wTTmPdySPKAgi0.cnFkG|admin
+wasuper|wadvs@gmail.com|$2y$10$rKqkCVfByAjSYw2tmIvwx.ifz54ydxlocBBevb4LDzMywl.2thgUO|seller
